@@ -23,7 +23,7 @@ public class AccountSearchApplication {
 		
 		
 		
-		String fileName = "assg2_input.txt"; 
+		String fileName = "AccountData.txt"; 
 		Scanner inputStream = null; 
 		String line;
 		
